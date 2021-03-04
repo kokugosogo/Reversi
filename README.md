@@ -12,9 +12,14 @@ javaを用いて開発したリバーシゲーム
 
 # Usage
 
-* コンパイルコマンド : javac -encoding UTF-8 Reversi.java
-* 実行コマンド : java Reversi
-* プレイヤーは先攻で石の色は黒です。
+* コンパイルコマンド
+```bash
+javac -encoding UTF-8 Reversi.java
+```
+* 実行コマンド
+```bash
+java Reversi
+```
 
 # Note
 

@@ -1,6 +1,6 @@
 # Reversi
 
-javaxを利用したリバーシゲーム
+javaを用いて開発したリバーシゲーム
 
 # Features
 

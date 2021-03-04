@@ -1,7 +1,7 @@
 # Reversi
 javaを用いて開発したリバーシゲーム
 
-#Demo
+# Demo
 ![Reversi_demo](https://user-images.githubusercontent.com/72292551/109929011-6a81c800-7d09-11eb-977c-2128c6a9b1fa.gif)
 
 # Features
